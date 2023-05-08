@@ -1,0 +1,39 @@
+.country-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  margin: 5px;
+  margin-left: 10px;
+  min-width: 80vw;
+}
+
+.country-name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 26px;
+  margin: 5px;
+}
+
+.visited-text {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-style: normal;
+  margin: 5px;
+  margin-right: 20px;
+}
+
+.button {
+  font-family: 'Roboto';
+  background-color: #3b82f6;
+  color: #ffffff;
+  font-size: 24px;
+  margin: 5px;
+  height: 40px;
+  width: 110px;
+  border-radius: 7px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
